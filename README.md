@@ -1,4 +1,4 @@
-# UNIX-Project
+# Web - Crawler
 This repository contains code for the Project 'Implementation of Web Crawler and Indexer in BASH'
 Web Crawler
 
@@ -16,5 +16,3 @@ SEO- Search Engine Optimization
 
 The images will be downloaded category-wise in separate folders
 Presentation
-
-Presentation for the project can be found in the repository.
